@@ -1,0 +1,18 @@
+.he1{
+    height: 100vh;
+    background-color: var(--main-bg-color);
+}
+
+.flex{
+    display: flex;
+    
+}
+
+.icon{
+    width: 2vw;
+}
+
+.icon:hover{
+    width: 3vw;
+}
+
